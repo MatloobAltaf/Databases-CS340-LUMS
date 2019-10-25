@@ -11,3 +11,7 @@ mydb = connector.connect(
     passwd = "password", (password too)
     db = "airline"
 )
+
+USER CREDATIONALS
+(admin,adminpass)
+(recepionist, pass)
