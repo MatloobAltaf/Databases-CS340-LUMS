@@ -19,8 +19,8 @@ tprint("SIAL Airline")
 
 mydb = connector.connect(
     host = "localhost",
-    user = "root",
-    passwd = "Ptg61mysql",
+    user = "user_name",
+    passwd = "password",
     db = "airline"
 )
 dbcursor = mydb.cursor(buffered=True)
